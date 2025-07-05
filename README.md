@@ -5,7 +5,7 @@
    - **Name:** Sergey Katsuba, **Affiliation:** University College Dublin, **Contact:** sergey.katsuba@ucdconnect.ie, **ORCID:** [0000-0001-8979-4211](https://orcid.org/0000-0001-8979-4211)
 3. **Contributors:**
    - **Name:** Dataout Foundation (Stichting Dataout), **Role:** Data Manager, **Contact:** contact@dataout.org
-4. **Persistent Identifier:** [https://doi.org/10.5281/zenodo.14250816](https://doi.org/10.5281/zenodo.14250816)
+4. **Persistent Identifier:** [https://doi.org/10.5281/zenodo.14250816](https://doi.org/10.5281/zenodo.14250816); Note: We removed this record from Zenodo because of issues with personal data. While we are working on releasing a corrected version, you can request the data by contacting us.
 5. **Published on:** Zenodo
 6. **Publication Date:** 30.11.2024
 7. **Associated File Formats:** CSV, ZIP, TXT
