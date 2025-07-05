@@ -11,7 +11,7 @@
 7. **Associated File Formats:** CSV, ZIP, TXT
 8. **License:** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 9. **Contact:** greyrainbow@dataout.org
-10. **This documentation was updated on:** 18.01.2025
+10. **This documentation was updated on:** 05.07.2025
 
 ### 2. Motivation
 
